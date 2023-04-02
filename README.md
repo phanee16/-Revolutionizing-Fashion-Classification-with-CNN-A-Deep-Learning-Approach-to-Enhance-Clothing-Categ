@@ -1,4 +1,4 @@
-# Image Classification using Convolutional Neural Networks
+# "Revolutionizing Fashion Classification with CNN: A Deep Learning Approach to Enhance Clothing Categorization"
 ![image](https://user-images.githubusercontent.com/47351536/223467909-0909059e-26af-4a3d-b940-cac1a4c233d4.png)
 
 First, the necessary libraries are imported, including Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, and Keras. Then, the Fashion-MNIST dataset is loaded and divided into training and testing sets. The distribution of the labels (clothing categories) in both sets is plotted using countplots from Seaborn library.
